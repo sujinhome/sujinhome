@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my Github!
 
 I am a PhD student in Economics at The Ohio State University. \
-My research interests are in Labor and Health Economics. 
+My research interest is in Labor Economics. 
 
 <!--
 **sujinhome/sujinhome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
